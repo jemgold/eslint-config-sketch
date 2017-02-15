@@ -1,0 +1,3 @@
+module.exports = [
+  'CGSizeMake', 'COSAlertWindow', 'CGAffineTransformMakeRotation', 'CGAffineTransformMakeScale', 'CGAffineTransformMakeTranslation', 'CGAffineTransformConcat', 'log', 'NSArray', 'NSFontCondensedTrait', 'NSFontItalicTrait', 'NSFontManager', 'NSFontSymbolicTrait', 'NSFontTraitsAttribute', 'NSFontWeightBlack', 'NSFontWeightBold', 'NSFontWeightHeavy', 'NSFontWeightLight', 'NSFontWeightMedium', 'NSFontWeightRegular', 'NSFontWeightSemibold', 'NSFontWeightThin', 'NSFontWeightTrait', 'NSFontWeightUltraLight', 'NSFont', 'NSFontAttributeName', 'NSImage', 'NSKernAttributeName', 'NSMakeRect', 'NSMutableParagraphStyle', 'NSParagraphStyleAttributeName', 'NSString', 'NSStringDrawingUsesLineFragmentOrigin', 'NSTextField', 'NSTextView', 'NSView',
+];

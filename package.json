@@ -1,0 +1,37 @@
+{
+  "name": "eslint-plugin-sketch",
+  "version": "0.0.0",
+  "description": "common eslint globals for Sketch plugins",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build",
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "files": [
+    "index.js",
+    "index.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jongold/eslint-plugin-sketch.git"
+  },
+  "author": "Jon Gold <hello@designedbygold.com> (http://jon.gold)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jongold/eslint-plugin-sketch/issues"
+  },
+  "homepage": "https://github.com/jongold/eslint-plugin-sketch#readme",
+  "devDependencies": {
+    "eslint": "^3.15.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.9.0",
+    "fluture": "^4.3.5",
+    "github": "^8.2.1",
+    "jest": "^18.1.0",
+    "node-fetch": "^1.6.3",
+    "ramda": "^0.23.0"
+  }
+}
