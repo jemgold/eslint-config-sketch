@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/jongold/eslint-plugin-sketch.git"
+    "url": "git+ssh://git@github.com/jongold/eslint-config-sketch.git"
   },
   "author": "Jon Gold <hello@designedbygold.com> (http://jon.gold)",
   "license": "MIT",
