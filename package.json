@@ -1,5 +1,5 @@
 {
-  "name": "@jongold/eslint-plugin-sketch",
+  "name": "@jongold/eslint-config-sketch",
   "version": "1.0.0-0",
   "description": "common eslint globals for Sketch plugins",
   "main": "index.js",

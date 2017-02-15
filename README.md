@@ -6,7 +6,7 @@ eslint config with the variables that Sketch.app's JavaScript environment contai
 
 ## Usage
 ```
-npm install --save-dev eslint eslint-config-sketch
+npm install --save-dev eslint @jongold/eslint-config-sketch
 ```
 
 in `.eslintrc`
