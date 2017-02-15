@@ -35,6 +35,7 @@
     "NSTextField": false,
     "NSTextView": false,
     "NSView": false,
+    "NSURL": false,
     "MSAboutLinkButtonCell": false,
     "MSAboutWindowController": false,
     "MSAbsoluteRect": false,
